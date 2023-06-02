@@ -1,3 +1,7 @@
+## About
+
+This Project performs Pedestrain Detection in images using a variety of techniques.
+
 ## Instructions to run
 
 1. Navigate to the directory containing source code `src`
@@ -7,3 +11,7 @@
     3. Faster-RCNN: Use the command: `python eval_faster_rcnn.py --root <path to dataset root directory> -- test <path to test json> --out <path to output json>`
     
 Note: `<path to dataset root directory>` corresponds to the directory where `PennFudanPed` folder is located.
+
+## Collaborators
+
+Done with [Deepak](https://github.com/deepakkhichar) as a part of the course COL780 - Computer Vision at IIT Delhi.
